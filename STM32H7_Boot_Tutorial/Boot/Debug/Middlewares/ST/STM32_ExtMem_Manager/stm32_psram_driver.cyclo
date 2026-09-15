@@ -1,0 +1,5 @@
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:92:35:EXTMEM_DRIVER_PSRAM_Init	6
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:169:35:EXTMEM_DRIVER_PSRAM_DeInit	1
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:181:35:EXTMEM_DRIVER_PSRAM_Enable_MemoryMappedMode	3
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:211:35:EXTMEM_DRIVER_PSRAM_Disable_MemoryMappedMode	2
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/psram/stm32_psram_driver.c:239:35:PSRAM_ExecuteCommand	4

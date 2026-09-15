@@ -1,0 +1,10 @@
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:133:22:EXTMEM_Init	6
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:245:22:EXTMEM_DeInit	4
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:338:22:EXTMEM_Read	5
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:435:22:EXTMEM_Write	5
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:538:22:EXTMEM_WriteInMappedMode	5
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:608:22:EXTMEM_EraseSector	20
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:773:22:EXTMEM_EraseAll	5
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:863:22:EXTMEM_GetInfo	4
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:945:22:EXTMEM_MemoryMappedMode	10
+C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/stm32_extmem.c:1086:22:EXTMEM_GetMapAddress	6
