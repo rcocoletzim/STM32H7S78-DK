@@ -1,3 +1,0 @@
-C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.c:60:20:BOOT_Application	16	static
-C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.c:87:20:MapMemory	16	static
-C:/Users/Admin/GitHub/STM32H7S78-DK/STM32H7_Boot_Tutorial/Middlewares/ST/STM32_ExtMem_Manager/boot/stm32_boot_xip.c:120:20:JumpToApplication	80	static,ignoring_inline_asm
