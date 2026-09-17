@@ -1,36 +1,16 @@
-# ==========================================
-# Output files
-# ==========================================
-Debug/
-Release/
-*.elf
-*.bin
-*.hex
-*.map
-*.list
-*.srec
-*.axf
+# Ignore Debug and Release.
+**/Debug/
+**/Release/
 
-# Archivos objeto y dependencias intermedias
-*.o
-*.obj
-*.d
-*.su
+# Dependencies and object files
+**/*.o
+**/*.obj
+**/*.d
+**/*.su
 
-# ==========================================
-# Temporal files
-# ==========================================
-.settings/language.settings.xml
-.metadata/
-*.launch
-*.log
-
-# ==========================================
-# VS Code
-# ==========================================
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-.idea/
-cmake-build-*/
+# Binaries
+**/*.elf
+**/*.bin
+**/*.hex
+**/*.map
+**/*.list
